@@ -25,9 +25,9 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Junior year Computer Science student specializing in backend development."
   location         : "Egypt"
-  employer         : "Fawry"
+  employer         :
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    :
   email            : "abdelrhmansersawy@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

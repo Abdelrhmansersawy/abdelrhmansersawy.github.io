@@ -7,7 +7,7 @@ author_profile: true
 <h1 id="about-me" class="page__title">About Me</h1>
 
 <p>
-Junior year Computer Science student specializing in backend development. 6 months of backend experience (Java Spring Boot) from an internship at Fawry. Designed systems including a microservice-based e-commerce platform, version control system, and text editor. Open-source contributor to Checkstyle. Two-time ACPC finalist with passion for algorithms, problem-solving, and coaching in competitive programming.
+Junior CS student, open-source contributor, 2x ACPC finalist.
 </p>
 
 <h2 id="experience">Experience</h2>
